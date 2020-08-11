@@ -1,24 +1,15 @@
 # README
+* Ruby version:2.6.6  
+# 簡単なCRUD処理の実装　
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### ・ユーザーのIdとpasswordの一致ができているか確認。
 
-Things you may want to cover:
+### ・ユーザーメニューではデータの追加のみ。  
 
-* Ruby version
+### ・今後は編集、削除ができるように実装する予定。
 
-* System dependencies
+### (作動方法)  
+コマンドで作動させるディレクトリに移動した後、```rails s```でサーバーを起動。　　
 
-* Configuration
+ログインもしくは新規登録を行い、中の画面へ入る。　　
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
